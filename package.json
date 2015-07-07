@@ -1,7 +1,7 @@
 {
     "name": "fis-optimizer-tpl-compress",
     "description": "A fis-plus tpl compressor optimizer tool",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
         "url": "https://github.com/exp-team/fis-optimizer-tpl-compress.git"
     },
     "dependencies": {
-        "uglify-js": "2.4.15"
+        
     },
     "keywords": [
     	"fis",
