@@ -3,7 +3,7 @@
 [![NPM Download](https://nodei.co/npm-dl/fis-optimizer-tpl-compress.png?months=1)](https://www.npmjs.org/package/fis-optimizer-tpl-compress)
 
 # fis-optimizer-tpl-compress
->Fis-Plus Smarty模板文件压缩工具
+>F.I.S (Smarty)模板压缩(优化)插件
 
 ## 如何使用？
 
@@ -11,7 +11,8 @@
 npm install -g fis-optimizer-tpl-compress
 ```
 
-配置 fis-conf.js
+### 配置 fis-conf.js
+在配置文件(默认fis-conf.js)配置
 
 ```javascript
 fis.config.merge({
