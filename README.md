@@ -9,7 +9,7 @@
 
 * 自定义(Smarty)模板边界符
 * 去除\r \n \t以及多余的空格
-* 优化页面(<script type="text/javascript"></script>&{%script%}{%/script%}标签中的)代码(去除单行&多行注释&多余空格)
+* 优化页面(&lt;script type="text/javascript"&gt;&lt;/script&gt;&{%script%}{%/script%}标签中的)代码(去除单行&多行注释&多余空格)
 * 最终将模板代码优化为一行
 
 ## 如何使用？
