@@ -3,7 +3,7 @@
 [![NPM Download](https://nodei.co/npm-dl/fis-optimizer-tpl-compress.png?months=1)](https://www.npmjs.org/package/fis-optimizer-tpl-compress)
 
 # fis-optimizer-tpl-compress
-Fis-Plus Smarty模板文件压缩工具
+>Fis-Plus Smarty模板文件压缩工具
 
 ## 如何使用？
 
@@ -22,6 +22,6 @@ fis.config.merge({
     }
 });
 ```
-
+## 更多资料
 [fis]: https://github.com/fex-team/fis
 [fis-plus]: https://github.com/fex-team/fis-plus
