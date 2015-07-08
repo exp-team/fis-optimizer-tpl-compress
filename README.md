@@ -31,8 +31,6 @@ fis.config.merge({
 ```
 ## 更多资料
 
-[fis](https://github.com/fex-team/fis) 前端集成解决方案
-
-[fis-plus](https://github.com/fex-team/fis-plus)
-
-[fis-optimizer-html-compress](https://github.com/pianist829/fis-optimizer-html-compress)
+* [fis](https://github.com/fex-team/fis) 前端集成解决方案
+* [fis-plus](https://github.com/fex-team/fis-plus)
+* [fis-optimizer-html-compress](https://github.com/pianist829/fis-optimizer-html-compress)
